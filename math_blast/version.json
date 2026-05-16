@@ -6,7 +6,7 @@
 
     "minRequiredVersion": "1.0.0",
 
-    "forceUpdate": false,
+    "forceUpdate": true,
 
     "storeUrl": "https://apps.apple.com/app/id6767982317",
 
