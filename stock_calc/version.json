@@ -10,7 +10,6 @@
       "ja": "新しいバージョンがリリースされました。"
     }
   },
-
   "android": {
     "latestVersion": "1.0.0",
     "minRequiredVersion": "1.0.0",
@@ -21,4 +20,5 @@
       "en": "A new version is available.",
       "ja": "新しいバージョンがリリースされました。"
     }
+  }
 }
