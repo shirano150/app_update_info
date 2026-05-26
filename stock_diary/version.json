@@ -2,7 +2,7 @@
   "ios": {
     "latestVersion": "1.0.3",
     "minRequiredVersion": "1.0.3",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "storeUrl": "https://apps.apple.com/app/id6769263816",
     "message": {
       "ko": "새 버전이 출시되었습니다.",
