@@ -1,13 +1,13 @@
 {
   "ios": {
-    "latestVersion": "1.0.4",
-    "minRequiredVersion": "1.0.4",
+    "latestVersion": "1.0.5",
+    "minRequiredVersion": "1.0.5",
     "forceUpdate": false,
     "storeUrl": "https://apps.apple.com/app/id6769263816",
     "message": {
-      "ko": "업데이트 버튼이 작동하지 않으면, \n스토어에서 직접 업데이트 해주세요.\n 빠른 시일내로 수정하겠습니다.",
-      "en": "If the update button is not working, \nplease update the app directly from the store.\nWe will fix the issue as soon as possible.",
-      "ja": "アップデートボタンが動作しない場合は、\nストアから直接アップデートしてください。\nできるだけ早く修正いたします。"
+      "ko": "새 버전이 출시되었습니다.",
+      "en": "A new version is available.",
+      "ja": "新しいバージョンがリリースされました。"
     }
   },
   "android": {
