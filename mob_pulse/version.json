@@ -1,7 +1,7 @@
 {
   "ios": {
-    "latestVersion": "1.0.0",
-    "minRequiredVersion": "1.0.0",
+    "latestVersion": "1.0.1",
+    "minRequiredVersion": "1.0.1",
     "forceUpdate": false,
     "storeUrl": "https://apps.apple.com/kr/app/id6779508384",
     "message": {
