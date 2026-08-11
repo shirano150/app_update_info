@@ -1,0 +1,24 @@
+{
+  "ios": {
+    "latestVersion": "0.0.1",
+    "minRequiredVersion": "0.0.1",
+    "forceUpdate": false,
+    "storeUrl": "https://apps.apple.com/app/id",
+    "message": {
+      "ko": "새 버전이 출시되었습니다.",
+      "en": "A new version is available.",
+      "ja": "新しいバージョンがリリースされました。"
+    }
+  },
+  "android": {
+    "latestVersion": "1.0.0",
+    "minRequiredVersion": "1.0.0",
+    "forceUpdate": false,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.example.app",
+    "message": {
+      "ko": "새 버전이 출시되었습니다.",
+      "en": "A new version is available.",
+      "ja": "新しいバージョンがリリースされました。"
+    }
+  }
+}
