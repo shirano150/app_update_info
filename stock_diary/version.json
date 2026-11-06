@@ -11,8 +11,8 @@
     }
   },
   "android": {
-    "latestVersion": "1.2.0",
-    "minRequiredVersion": "1.2.0",
+    "latestVersion": "1.2.1",
+    "minRequiredVersion": "1.2.1",
     "forceUpdate": false,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.ezcodelab.stockdiary",
     "message": {
